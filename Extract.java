@@ -2,7 +2,7 @@ class Extract
 {
   public static void main(String args[])
 {
-  int n1=2024,n2=2583;
+  int n1=2326,n2=7654;
   int n3=n1/100,n4=n2%100;
   System.out.println(n3);
   System.out.println(n4);
